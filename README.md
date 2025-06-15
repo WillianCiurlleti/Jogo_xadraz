@@ -1,6 +1,6 @@
 # 🏰 Xadrez Interativo em C
 
-<img src=src/Tabuleiro.png alt="Tabuleiro Gerado por IA" width="30%">
+<img src=src/Tabuleiro.png alt="Tabuleiro Gerado por IA" width="35%">
 
 Um programa interativo em C que demonstra os movimentos das peças de xadrez com visualização colorida no terminal.
 
@@ -128,20 +128,20 @@ bool isValidPosition();       // Valida coordenadas
 
 Menu Principal
 
-<img src=src/Tela_inicial.png alt="Exibe o tabuleiro" width="20%">
+<img src=src/Tela_inicial.png alt="Exibe o tabuleiro" width="30%">
 
 
 Movimento da Torre
 
-<img src=src/Movimento_torre.png alt="Exibe movimento da Torre" width="20%">
+<img src=src/Movimento_torre.png alt="Exibe movimento da Torre" width="30%">
 
 Movimento do Bispo
 
-<img src=src/Movimento_bispo.png alt="Exibe movimento da Bispo" width="20%">
+<img src=src/Movimento_bispo.png alt="Exibe movimento da Bispo" width="30%">
 
 Movimento do Cavalo
 
-<img src=src/Movimento_cavalo.png alt="Exibe movimento da Cavalo" width="20%">
+<img src=src/Movimento_cavalo.png alt="Exibe movimento da Cavalo" width="30%">
 
 
 ## 📦 Arquivo  Executável
